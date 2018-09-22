@@ -6,7 +6,7 @@
     <description>Recent content in Tags on CCR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Sep 2018 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Sep 2018 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="https://ccr-china.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Ccra</title>
       <link>https://ccr-china.github.io/tags/ccra/</link>
-      <pubDate>Wed, 19 Sep 2018 13:07:31 +0200</pubDate>
+      <pubDate>Thu, 20 Sep 2018 13:07:31 +0200</pubDate>
       
       <guid>https://ccr-china.github.io/tags/ccra/</guid>
       <description></description>
@@ -35,6 +35,15 @@
       <pubDate>Wed, 19 Sep 2018 13:07:31 +0200</pubDate>
       
       <guid>https://ccr-china.github.io/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工作报告</title>
+      <link>https://ccr-china.github.io/tags/%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A/</link>
+      <pubDate>Thu, 20 Sep 2018 13:07:31 +0200</pubDate>
+      
+      <guid>https://ccr-china.github.io/tags/%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A/</guid>
       <description></description>
     </item>
     
