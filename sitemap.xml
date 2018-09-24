@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://ccr-china.github.io/about/</loc>
+    <lastmod>2018-09-21T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ccr-china.github.io/post/2018-09-21-competition/</loc>
     <lastmod>2018-09-21T13:07:31+02:00</lastmod>
   </url>
@@ -73,11 +78,6 @@
   </url>
   
   <url>
-    <loc>https://ccr-china.github.io/about/</loc>
-    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ccr-china.github.io/author/</loc>
     <priority>0</priority>
   </url>
@@ -100,26 +100,26 @@
   </url>
   
   <url>
-    <loc>https://ccr-china.github.io/categories/conference/</loc>
-    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ccr-china.github.io/tags/conference/</loc>
     <lastmod>2018-05-15T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ccr-china.github.io/categories/news/</loc>
-    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
+    <loc>https://ccr-china.github.io/categories/conference/</loc>
+    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ccr-china.github.io/tags/news/</loc>
     <lastmod>2018-09-19T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ccr-china.github.io/categories/news/</loc>
+    <lastmod>2018-04-21T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
