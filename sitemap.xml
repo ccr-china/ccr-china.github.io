@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ccr-china.github.io/post/2018-12-16-stech/</loc>
+    <lastmod>2018-12-16T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ccr-china.github.io/post/2018-10-24-tencent/</loc>
     <lastmod>2018-10-24T13:07:31+02:00</lastmod>
   </url>
@@ -94,7 +99,7 @@
   
   <url>
     <loc>https://ccr-china.github.io/</loc>
-    <lastmod>2018-10-24T13:07:31+02:00</lastmod>
+    <lastmod>2018-12-16T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,13 +110,7 @@
   
   <url>
     <loc>https://ccr-china.github.io/tags/ccra/</loc>
-    <lastmod>2018-10-24T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ccr-china.github.io/categories/conference/</loc>
-    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
+    <lastmod>2018-12-16T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -122,8 +121,8 @@
   </url>
   
   <url>
-    <loc>https://ccr-china.github.io/categories/news/</loc>
-    <lastmod>2018-09-23T13:07:31+02:00</lastmod>
+    <loc>https://ccr-china.github.io/categories/conference/</loc>
+    <lastmod>2018-05-15T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -134,20 +133,26 @@
   </url>
   
   <url>
+    <loc>https://ccr-china.github.io/categories/news/</loc>
+    <lastmod>2018-09-23T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ccr-china.github.io/categories/organization/</loc>
-    <lastmod>2018-10-24T13:07:31+02:00</lastmod>
+    <lastmod>2018-12-16T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ccr-china.github.io/post/</loc>
-    <lastmod>2018-10-24T13:07:31+02:00</lastmod>
+    <lastmod>2018-12-16T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ccr-china.github.io/tags/</loc>
-    <lastmod>2018-10-24T13:07:31+02:00</lastmod>
+    <lastmod>2018-12-16T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -189,7 +194,7 @@
   
   <url>
     <loc>https://ccr-china.github.io/tags/%E8%85%BE%E8%AE%AF%E7%A0%94%E7%A9%B6%E9%99%A2/</loc>
-    <lastmod>2018-10-24T13:07:31+02:00</lastmod>
+    <lastmod>2018-12-16T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
